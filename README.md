@@ -1,4 +1,4 @@
-1[logo](https://github.com/SharifulIslamAkash7x/SharifulIslamAkash7x/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/SharifulIslamAkash7x/SharifulIslamAkash7x/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shariful Islam Akash</h1>
 <h3 align="center">a Web Developer from Mymensingh, Bangladesh. Since February 2019.</h3>
 
